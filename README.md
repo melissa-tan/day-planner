@@ -20,6 +20,6 @@ The below image shows a screenshot of the planner with events. <br />
 - When the page is refreshed, the save events persist
 
 ### Resources
-Bootstrap: [https://getbootstrap.com/docs/5.0/forms/input-group/](https://getbootstrap.com/docs/5.0/forms/input-group/)
-jQuery: [https://api.jquery.com/](https://api.jquery.com/)
+Bootstrap: [https://getbootstrap.com/docs/5.0/forms/input-group/](https://getbootstrap.com/docs/5.0/forms/input-group/) <br />
+jQuery: [https://api.jquery.com/](https://api.jquery.com/) <br />
 Moment: [https://momentjs.com/docs/#/displaying/](https://momentjs.com/docs/#/displaying/)
