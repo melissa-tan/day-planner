@@ -18,7 +18,7 @@ $(document).ready(function(){
     var $4PM = $("#16");
     var $5PM = $("#17");
     
-//sets backgroud color for each hour based on current hour
+//sets background color for each hour based on current hour
     $("input").each(function(){
         var hour = parseInt($(this).attr("id"));
         if(hour < currentHour){
@@ -30,7 +30,7 @@ $(document).ready(function(){
         }
     })
  
-//Saves (setItem) all rows when a single button is clicked, it will override old plans 
+//Saves (setItem) all rows when a single button is clicked, it will override old events 
     $("button").on("click", function () {
         localStorage.setItem("8AM", $8AM.val());
         localStorage.setItem("9AM", $9AM.val());
